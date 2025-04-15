@@ -1,0 +1,4 @@
+repository "infinite-side-scroller/infinite-side-scroller@9072235761717@cloud"
+  path "/"
+    br "/main"
+    co "/main"
