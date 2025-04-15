@@ -46,7 +46,7 @@ Le joueur saute pour éviter des pièges générés de manière procédurale, co
 ## ▶️ Lancer le projet
 
 ```bash
-git clone https://github.com/<ton-user>/infinite-side-scroller.git
+git clone https://github.com/Swixos/infinite-side-scroller.git
 ```
 
 - Ouvre le projet avec Unity Hub
